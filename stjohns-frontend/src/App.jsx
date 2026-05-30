@@ -543,7 +543,7 @@ export default function NativeChurch() {
             <img src={logo} alt="logo"/>
           </div>
           <div className="nc-logo-text">
-            <div className="brand">NATIVE <em>CHURCH</em></div>
+            <div className="brand">St. John's<em>CHURCH</em></div>
             <div className="sub">Live the Love</div>
           </div>
         </a>
@@ -679,7 +679,7 @@ export default function NativeChurch() {
       <footer className="nc-footer">
         <div className="nc-footer-top">
           <div className="nc-footer-brand">
-            <div className="brand">NATIVE <em>CHURCH</em></div>
+            <div className="brand">St. John's <em>CHURCH</em></div>
             <p>A community built on love. Everyone is welcome — no matter where you've been or where you're going.</p>
           </div>
           <div className="nc-footer-col">
@@ -705,7 +705,7 @@ export default function NativeChurch() {
           </div>
         </div>
         <div className="nc-footer-bottom">
-          © 2024 <span>Native Church</span>
+          © 2026 <span>St. John's  Church</span>
           <span className="nc-footer-dot">·</span>
           Live the Love
         </div>
